@@ -1,0 +1,6 @@
+{
+  "name": "Technology Crafted for All",
+  "description": "Clear, intuitive, and accessible digital experiences shaped by real human behavior.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
